@@ -50,7 +50,7 @@ cse103-lab-LAB3/
 
 ```bash
 
-git clone https://github.com/[username]/cse103-lab-LAB3.git
+git clone https://github.com/aryanrajput14299-ai/cse103-lab-LAB3.git
 
 cd cse103-lab-LAB3
 
