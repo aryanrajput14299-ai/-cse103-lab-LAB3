@@ -1,6 +1,5 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
-![Last Commit](https://img.shields.io/github/last-commit/aryanrajput14299-ai/cse103-lab-LAB3)
-![Language](https://img.shields.io/badge/language-Python-blue)
+![Last Commit](https://img.shields.io/github/last-commit/aryanrajput14299-ai/-cse103-lab-LAB3)![Language](https://img.shields.io/badge/language-Python-blue)
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
